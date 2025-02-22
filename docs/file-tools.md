@@ -38,12 +38,12 @@
 * [imFile](https://imfile.io/) - Download Manager / Updated Motrix Fork / [GitHub](https://github.com/imfile-io/imfile-desktop)
 * [aria2](https://aria2.github.io/) or [Persepolis](https://persepolisdm.github.io/) - Terminal Download Manager / [GitHub](https://github.com/aria2/aria2) / [Download Bot](https://github.com/gaowanliang/DownloadBot) / [WebUI](https://github.com/ziahamza/webui-aria2), [2](https://ariang.mayswind.net/)
 * [pyLoad](https://pyload.net/) - Lightweight Download Manager
+* [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - Multi-Site Media Download Tool
 * [ArrowDL](https://github.com/setvisible/ArrowDL/) - Download Manager / [GitHub](https://github.com/pyload/pyload)
 * [FDM](https://www.freedownloadmanager.org/) - Download Manager / [YTDL Addon](https://github.com/meowcateatrat/elephant)
 * [File Centipede](https://filecxx.com/) - Upload / Download Manager
-* [DownThemAll](https://www.downthemall.org/) or [Turbo Download Manager](https://webextension.org/listing/turbo-download-manager-v2.html) / [GitHub](https://github.com/inbasic/turbo-download-manager-v2/) - Download Management Extensions
+* [DownThemAll](https://www.downthemall.org/) - Download Management Extension
 * [HTTP Downloader](https://erickutcher.github.io/) - Download Manager for HTTP / FTP / SFTP Protocols / [GitHub](https://github.com/erickutcher/httpdownloader)
-* [Downloader](https://downloader.la/) or [Hitomi](https://github.com/KurtBestor/Hitomi-Downloader) - File Download Tools
 * [mf-dl](https://gitgud.io/Pyxia/mf-dl/) or [mediafire_bulk_downloader](https://github.com/NicKoehler/mediafire_bulk_downloader) - Mediafire File Downloaders
 
 ***
@@ -76,25 +76,25 @@
 * [Encoding Converter](https://encoding-converter.netlify.app/) - Online File Encoding Converter
 * [Deark](https://entropymine.com/deark/) - Decode and Convert Files / [GitHub](https://github.com/jsummers/deark)
 * [text2img](https://master.ayra.ch/text2img/) - Online NFO Files to Image Converter
-* [CloudConvert](https://cloudconvert.com/) - Convert Files / 1 GB
-* [FreeConvert](https://www.freeconvert.com/) - File Converter / 1 GB
-* [videoutils](https://www.videoutils.com/) - File Converter / 500 MB
-* [Xconvert](https://www.xconvert.com) - File Converter / 400 MB
-* [ConvertFiles](https://www.convertfiles.com/) - File Converter / 250 MB
-* [Convertio](https://convertio.co/) - File Converter / 100 MB
-* [AnyConvert](https://anyconv.com/) - File Converter / 100 MB
-* [onlineconvertfree](https://onlineconvertfree.com/) - File Converter / 100 MB
-* [MiConv](https://miconv.com/) - File Converter / 75 MB
-* [Converter 365](https://www.converter365.com/) - File Converters / 200 MB
-* [Aconvert](https://www.aconvert.com/) - Various Converters / 40 MB
-* [LetsConvert](https://letsconvert.io/) - Image/Audio Converter / 250 MB
+* [CloudConvert](https://cloudconvert.com/) - Convert Files / 1GB
+* [FreeConvert](https://www.freeconvert.com/) - File Converter / 1GB
+* [videoutils](https://www.videoutils.com/) - File Converter / 500MB
+* [Xconvert](https://www.xconvert.com) - File Converter / 400MB
+* [ConvertFiles](https://www.convertfiles.com/) - File Converter / 250MB
+* [Convertio](https://convertio.co/) - File Converter / 100MB
+* [AnyConvert](https://anyconv.com/) - File Converter / 100MB
+* [onlineconvertfree](https://onlineconvertfree.com/) - File Converter / 100MB
+* [MiConv](https://miconv.com/) - File Converter / 75MB
+* [Converter 365](https://www.converter365.com/) - File Converters / 200MB
+* [Aconvert](https://www.aconvert.com/) - Various Converters / 40MB
+* [LetsConvert](https://letsconvert.io/) - Image/Audio Converter / 250MB
 * [Online Convert](https://www.online-convert.com/) - Online File Converter
-* [Zamzar](https://www.zamzar.com/) - File Converter / 200 MB
+* [Zamzar](https://www.zamzar.com/) - File Converter / 200MB
 * [Online Converter](https://www.onlineconverter.com/) - Online Simple Media / Unit Converter
 * [Convert Town](https://convert.town/) - Online Text / Image Converter
-* [Docspal](https://www.docspal.com/) - Various Converters / 50 MB Image, Documents / 200 MB Video, Archive, Audio
-* [Better Converter](https://better-converter.com/) - Text-Focused Converters / 10 MB
-* [go4convert](https://go4convert.com/) - Online Document Converter / 100 MB
+* [Docspal](https://www.docspal.com/) - Various Converters / 50MB Image, Documents / 200MB Video, Archive, Audio
+* [Better Converter](https://better-converter.com/) - Text-Focused Converters / 10MB
+* [go4convert](https://go4convert.com/) - Online Document Converter / 100MB
 
 ***
 
@@ -138,10 +138,10 @@
 
 ## ▷ File Encryption
 
-* ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - Disk Encrypter 
+* ⭐ **[VeraCrypt](https://www.veracrypt.fr/en/Home.html)** - Disk Encrypter
 * ⭐ **[age](https://github.com/FiloSottile/age)** - File Encrypter
-* [Picocrypt](https://github.com/Picocrypt/Picocrypt) - Lightweight File Encrypter 
-* [Hat](https://hat.sh/) - Browser-Based Encrypter 
+* [Picocrypt](https://github.com/Picocrypt/Picocrypt) - Lightweight File Encrypter
+* [Hat](https://hat.sh/) - Browser-Based Encrypter
 * [Kryptor](https://www.kryptor.co.uk/) - File Encrypter
 
 ***
@@ -150,7 +150,7 @@
 
 * ⭐ **[SyncThing](https://syncthing.net/)** - Cross-Platform File Sync / [Tray Support](https://martchus.github.io/syncthingtray/) / [GitHub](https://github.com/syncthing/syncthing)
 * ⭐ **[FreeFileSync](https://freefilesync.org/)** - Open-Source File Sync
-* [MyPhoneExplorer](https://www.fjsoft.at/),[SyncFolder](https://apps.microsoft.com/detail/9nc73mjwhsww?rtc=1&hl=en-us&gl=US) - Phone and Desktop Sync
+* [MyPhoneExplorer](https://www.fjsoft.at/), [SyncFolder](https://apps.microsoft.com/detail/9nc73mjwhsww?rtc=1&hl=en-us&gl=US) - Phone and Desktop Sync
 * [allwaysync](https://allwaysync.com/) - File Sync Utility
 * [Resilio](https://www.resilio.com/individuals/) - P2P File Sync
 * [SmartFTP](https://www.smartftp.com/) - FTP File Sync
@@ -163,10 +163,10 @@
 
 * ⭐ **[Kopia](https://kopia.io/)** - Encrypted File Backup / [GitHub](https://github.com/kopia/kopia/)
 * ⭐ **[Rescuezilla](https://rescuezilla.com/)** or [CloneZilla](https://clonezilla.org/) - Disk Image Backup
-* [FolderClone](https://www.folderclone.com/) - Folder Clone / Backup
+* [FolderClone](https://www.folderclone.com/) or [Echosync](https://www.luminescence-software.org/en/echosync/about/) - Folder Clone / Backup
 * [BackupPC](https://backuppc.github.io/backuppc/) - Networked File backup
 * [TeraCopy](https://www.codesector.com/teracopy) - File Transfer / Backup
-* [restic](https://restic.net/) / [GitHub](https://github.com/restic/restic), [duplicity](https://duplicity.gitlab.io/) or [Duplicati](https://www.duplicati.com/) - Secure File Backup 
+* [restic](https://restic.net/) / [GitHub](https://github.com/restic/restic), [duplicity](https://duplicity.gitlab.io/) or [Duplicati](https://www.duplicati.com/) - Secure File Backup
 * [UrBackup](https://www.urbackup.org/) - Client / Server File Backup
 * [AOMEI Backupper](https://www.ubackup.com/) - Windows File Backup
 * [Borg](https://www.borgbackup.org/) - De-duplicating File Backup
@@ -213,12 +213,12 @@
 
 ## ▷ PDF Tools
 
-* ⭐ **[Sejda](https://www.sejda.com/)** / [Unlock](https://rentry.co/FMHYBase64#sejda), [ILovePDF](https://www.ilovepdf.com/), [DigiPDF](https://digipdf.app/?lang=en_US), [PDF2Go](https://www.pdf2go.com/) or [SimplePDF](https://simplepdf.com/) - Online PDF Toolkits
-* ⭐ **[PDFGear](https://www.pdfgear.com/)**, **[PDF24](https://www.pdf24.org/)**, [Foxit](https://www.foxit.com/pdf-reader/), [xPDFReader](https://www.xpdfreader.com/), [PDF Arranger](https://github.com/pdfarranger/pdfarranger), [PrivatePDF](https://photown.github.io/private-pdf/), [PDFBox](https://pdfbox.apache.org/) or [OpenPDF](https://github.com/LibrePDF/OpenPDF) - Offline PDF Toolkits
+* ⭐ **[Sejda](https://www.sejda.com/)**, [ILovePDF](https://www.ilovepdf.com/), [DigiPDF](https://digipdf.app/?lang=en_US), [PDF2Go](https://www.pdf2go.com/) or [SimplePDF](https://simplepdf.com/) - Online PDF Toolkits
+* ⭐ **[PDFGear](https://www.pdfgear.com/)**, **[PDF24](https://www.pdf24.org/)**, [Foxit](https://www.foxit.com/pdf-reader/) / [Warning](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#foxit-warning), [xPDFReader](https://www.xpdfreader.com/), [PDF Arranger](https://github.com/pdfarranger/pdfarranger), [PrivatePDF](https://photown.github.io/private-pdf/), [PDFBox](https://pdfbox.apache.org/) or [OpenPDF](https://github.com/LibrePDF/OpenPDF) - Offline PDF Toolkits
 * [Stirling-PDF](https://github.com/Stirling-Tools/Stirling-PDF) - Self-Hosted PDF Toolkit
-* [PDFGrep](https://pdfgrep.org/) or [⁠OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - PDF Text Search
+* [PDFGrep](https://pdfgrep.org/) or [OCRmyPDF](https://github.com/ocrmypdf/OCRmyPDF) - PDF Text Search
 * [View-only PDF](https://rentry.co/cm4b7) - Download View-Only PDF on Google Drive
-* [Rare2PDF](https://rare2pdf.com/) , [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
+* [Rare2PDF](https://rare2pdf.com/), [online2pdf](https://online2pdf.com/) or [2PDFConverter](https://www.2pdfconverter.com/) - Convert Files to PDF
 * [MD2PDF](https://md2pdf.netlify.app/) - Markdown to PDF Converter
 * [PDFconvert](https://docupub.com/pdfconvert/) - PDF File Converters
 * [PDFEncrypt](https://pdfencrypt.net/) - PDF File Encryption
@@ -267,14 +267,11 @@
 * [Surge](https://getsurge.io/) - P2P App
 * [Wormhole](https://wormhole.app/)
 * [PairDrop](https://pairdrop.net/) / [GitHub](https://github.com/schlagmichdoch/pairdrop)
-* [Snapdrop](https://snapdrop.net/) / [GitHub](https://github.com/SnapDrop/snapdrop)
-* [ShareDrop](https://www.sharedrop.io/)
 * [new.space](https://new.space/)
 * [FilePizza](https://file.pizza/)
 * [TransferNow](https://www.transfernow.net/en)
 * [Horizon Send](https://send.hrzn.cool/)
 * [Salad Room](https://saladroom.net/)
-* [blymp.io](https://blymp.io/) / [GitHub](https://github.com/vantezzen/blymp-io)
 * [drop.lol](https://drop.lol/) / [GitHub](https://github.com/mat-sz/filedrop-web)
 * [sendfilesencrypted.com](https://sendfilesencrypted.com/)
 * [LIGHTNING SHARE](https://lightning-share.vercel.app/)
@@ -297,12 +294,12 @@
 * ↪️ **[Video File Hosts](https://www.reddit.com/r/FREEMEDIAHECKYEAH/wiki/video-tools#wiki_.25B7_video_file_hosts)**
 * ⭐ **[Gofile](https://gofile.io/)** - Unlimited / Unlimited / 10 Days after last download
 * ⭐ **[Pixeldrain](https://pixeldrain.com/)** - Unlimited / 20GB per file / 120 Days after last pageview / [Discord](https://discord.gg/TWKGvYAFvX) / [Speedtest](https://pixeldrain.com/speedtest) / [Limit Bypass](https://pixeldrain-bypass.cybar.xyz/) / [Bypass Script](https://greasyfork.org/en/scripts/491326)
+* ⭐ **[Files.vc](https://files.vc/)** - Unlimited / 10GB / Forever
 * ⭐ **[Buzzheavier](https://buzzheavier.com/)** - Unlimited / 15 Days, Can Extend to Forever / [File Expiry](https://buzzheavier.com/help) / **[Use Adblocker](https://github.com/fmhy/FMHY/wiki/FMHY%E2%80%90Notes.md#buzzheavier-warning)** / [Discord](https://discord.gg/ttQjgC28WP)
 * ⭐ **[Catbox](https://catbox.moe/)** - Unlimited / 200MB / Forever
 * ⭐ **[Pillowcase](https://pillowcase.su/)** - Audio File Host / 200MB (500MB with Account) / Forever
 * [HIDAN](https://hidan.sh/) - Unlimited / 10+ Days (from upload)
-* [AnonDrop](https://anondrop.net/) - Unlimited / Remote upload / Embed Support 
-* [Files.vc](https://files.vc/) - Unlimited / 10GB / Forever
+* [AnonDrop](https://anondrop.net/) - Unlimited / Remote upload / Embed Support
 * [Send.now](https://send.now/) - 100GB / 100GB per file / 30 Days after last download
 * [DesiUpload](https://desiupload.co/) - Unlimited / 15 Days (15GB / 30 Days with Account)
 * [MixDrop](https://mixdrop.ag/) - Unlimited / 60 Days / Account Required
@@ -313,6 +310,9 @@
 * [file.kiwi](https://file.kiwi/) - Unlimited / [File Expiry Explanation](https://file.kiwi/en/price)
 * [Easyupload.io](https://easyupload.io/) - 100GB / 30 Days
 * [FEX.NET](https://fex.net/) - 100GB / 7 Days
+* [VikingFile](https://vikingfile.com/) - 500GB / 20 Days after last download
+* [DropMeFiles](https://dropmefiles.com/) - 50GB / 14 Days
+* [UploadNow](https://uploadnow.io/) - 100GB / 7 Days, Can Extend Forever
 * [eDisk](https://www.edisk.cz/) - 20GB / 30 Days
 * [Drop Download](https://drop.download/) - 25GB / 90 Days / Account Required
 * [SwissTransfer](https://www.swisstransfer.com/) - 50GB / 30 Days / 250 Downloads
@@ -324,11 +324,17 @@
 * [ShareFile](https://sharefile.co/), [2](https://gofile.to/) - 5GB / Unlimited
 * [Uploadraja.com](https://uploadraja.com/) - 10GB / 4 Days (30GB / 15 Days with Account)
 * [FileTransfer.io](https://filetransfer.io/) - 6GB / 21 Days / 50 Downloads
+* [udrop](https://www.udrop.com/) - 5GB / Forever
+* [Uploadev](https://uploadev.org/) - 10GB / 180 days after last download w/ account
+* [Imagenetz](https://www.imagenetz.de/?setLang=en) - 5GB / 30 Days after last download
 * [Tempfile](https://tempfile.me/) - 10GB / 90 Days
+* [FilePort](https://fileport.io/) - 5GB / 7 Days
 * [FileDitch](https://fileditch.com/), [Oshi](https://oshi.at/) or [SendGB](https://www.sendgb.com/) - 5GB / 90 Days
 * [MegaUp](https://megaup.net/) - 5GB / 60 Days
+* [Bestfile](https://bestfile.io/) - 5GB / 80 Days after last download
 * [ufile.io](https://ufile.io/) - 5GB / 30 Days
 * [Internxt Send](https://send.internxt.com/) - 5GB / 15 Days
+* [UserDrive](https://usersdrive.com/) - 5GB / 65 Days
 * [pCloud Transfer](https://transfer.pcloud.com/) or [Tresorit Send](https://send.tresorit.com/) - 5GB / 7 Days / Email Required
 * [Temp.sh](https://temp.sh/) - 4GB / 3 Days
 * [File Convoy](https://www.fileconvoy.com/) - 3GB / 21 Days
@@ -336,7 +342,9 @@
 * [JUMBOmail](https://www.jumbomail.me/) - 2GB / 7 Days / Email Required
 * [DropMB](https://dropmb.com/) - 512MB / 5 Years
 * [FireLoad](https://www.fireload.com/) - 2GB / 60 Days / Account Required
+* [FileGo](https://filego.app/) - / 30 Days / Account Required
 * [Lufi](https://upload.disroot.org/) - 2GB / 30 Days
+* [FilesPayouts](https://filespayouts.com/) - 10GB / Forever / Account Required
 * [DooDrive](https://doodrive.com/) - 2GB / 30 Days / Account Required
 * [Clicknupload](https://clicknupload.co/) - 2GB / 8 Days (10GB / 25 Days with Account)
 * [WeTransfer](https://wetransfer.com/) - 2GB / 7 Days
@@ -359,11 +367,11 @@
 * ⭐ **[filen](https://filen.io/)** - 10GB Free / 3 Months / ~$8 for 1TB
 * [disk.yandex](https://disk.yandex.com/) - 5GB Free / 2 Years / $2 for 1TB
 * [terabox](https://terabox.com/) - 1TB Free / $3.50 for 2TB
-* [dropbox](https://www.dropbox.com/) - 1 or 2 GB Free/ 12 Months / ~$5 for 1TB / [Client](https://github.com/SamSchott/maestral)
+* [dropbox](https://www.dropbox.com/) - 1 or 2GB Free / 12 Months / ~$5 for 1TB / [Client](https://github.com/SamSchott/maestral)
 * [mediafire](https://www.mediafire.com/) - 10GB Free / 8 Months / $5 for 1TB
 * [icedrive](https://icedrive.net/) - 10GB Free / 3 Months / $5 for 1TB
 * [PCloud](https://www.pcloud.com/) - 10GB Free / 1 Year / ~$4 for 1TB
-* [⁠FebBox](https://www.febbox.com/) - 1TB Free / 1 Month / ~$4 for 2TB
+* [FebBox](https://www.febbox.com/) - 1TB Free / 1 Month / ~$4 for 2TB
 * [Proton Drive](https://proton.me/drive) - 2GB Free (or 5GB for tasks) / 1 Year / ~$10 for 1TB
 * [JumpShare](https://jumpshare.com/) - 2GB Free / 1 Year / $8.25 for 1TB
 * [CyberFile](https://cyberfile.me/) - 10GB Free
@@ -374,7 +382,7 @@
 * [Cloudflare R2](https://www.cloudflare.com/developer-platform/products/r2/) - 10GB Free / ~$15.5 per 1TB
 * [1Cloud File](https://1cloudfile.com/) - 10GB Free
 * [OneDriveFly](https://github.com/Tai7sy/OneDriveFly) - OneDrive Indexes
-* [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4gb
+* [Fix-OneDrive-Zip](https://github.com/pmqs/Fix-OneDrive-Zip) - Fix OneDrive Zip Files >4GB
 * [SeaFile](https://www.seafile.com/en/home/) - Self-Hosted Cloud Storage
 
 ***
@@ -406,7 +414,7 @@
 * [gdrivedl](https://github.com/matthuisman/gdrivedl) - Google Drive Python Download Script
 * [ISAAC](https://rentry.co/FMHYBase64#gservice-gen) - Google Service Account Generators
 * [goindex-extended](https://github.com/menukaonline/goindex-extended) / [Themes](https://install.kenci.workers.dev/) or [Google-Drive-Index](https://gitlab.com/GoogleDriveIndex/Google-Drive-Index) - Google Drive Indexers
-* [gdurl](https://gdurl.com/), [google-drive-direct-link-generator/](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/) or [GDriveWebAppPublic ](https://github.com/CloudflareHackers/GDriveWebAppPublic) - Host Direct Links on Google Drive
+* [gdurl](https://gdurl.com/), [GDrive Link Generator](https://www.wonderplugin.com/online-tools/google-drive-direct-link-generator/), [Direct.GDrive](https://direct.gdrive.vip/en/), [Maulvi](https://maulvi.github.io/) or [GDriveWebAppPublic](https://github.com/CloudflareHackers/GDriveWebAppPublic) - Host Direct Links on Google Drive
 * [GdriveCloneWeb](https://github.com/jsmsj/GdriveCloneWeb) or [Google Drive Clone Bot](https://jsmsj.github.io/GdriveCloneBot/) / [GitHub](https://github.com/jsmsj/GdriveCloneBot) - Copy Google Drives
 * [GD-EFC Link Encryptor](https://rekulous.github.io/gd-efc-encryptor/) - Google Drive Link Encryptor for GD-EFC
 * [gd-efc](https://anadius.github.io/gd-efc/) - Copy Encrypted Google Drive
